@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\PrivateHospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AE71CA-38E8-46F6-B193-EF590A512FD9}|PrivateHospital.csproj|d:\\diploma in computer ai-usa\\vs_management\\privatehospital\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5AE71CA-38E8-46F6-B193-EF590A512FD9}|PrivateHospital.csproj|solutionrelative:views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AE71CA-38E8-46F6-B193-EF590A512FD9}|PrivateHospital.csproj|d:\\diploma in computer ai-usa\\vs_management\\privatehospital\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AE71CA-38E8-46F6-B193-EF590A512FD9}|PrivateHospital.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AE71CA-38E8-46F6-B193-EF590A512FD9}|PrivateHospital.csproj|d:\\diploma in computer ai-usa\\vs_management\\privatehospital\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5AE71CA-38E8-46F6-B193-EF590A512FD9}|PrivateHospital.csproj|solutionrelative:views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AE71CA-38E8-46F6-B193-EF590A512FD9}|PrivateHospital.csproj|d:\\diploma in computer ai-usa\\vs_management\\privatehospital\\views\\appointment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5AE71CA-38E8-46F6-B193-EF590A512FD9}|PrivateHospital.csproj|solutionrelative:views\\appointment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AE71CA-38E8-46F6-B193-EF590A512FD9}|PrivateHospital.csproj|d:\\diploma in computer ai-usa\\vs_management\\privatehospital\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AE71CA-38E8-46F6-B193-EF590A512FD9}|PrivateHospital.csproj|solutionrelative:controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AE71CA-38E8-46F6-B193-EF590A512FD9}|PrivateHospital.csproj|d:\\diploma in computer ai-usa\\vs_management\\privatehospital\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5AE71CA-38E8-46F6-B193-EF590A512FD9}|PrivateHospital.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AE71CA-38E8-46F6-B193-EF590A512FD9}|PrivateHospital.csproj|d:\\diploma in computer ai-usa\\vs_management\\privatehospital\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AE71CA-38E8-46F6-B193-EF590A512FD9}|PrivateHospital.csproj|solutionrelative:controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\PrivateHospital\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\PrivateHospital\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:57:48.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\PrivateHospital\\Views\\Appointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appointment\\Index.cshtml",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\PrivateHospital\\Views\\Appointment\\Index.cshtml",
+              "RelativeToolTip": "Views\\Appointment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T19:52:14.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\PrivateHospital\\Views\\Appointment\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appointment\\Edit.cshtml",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\PrivateHospital\\Views\\Appointment\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Appointment\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T19:50:00.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\PrivateHospital\\Views\\Appointment\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appointment\\Create.cshtml",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\PrivateHospital\\Views\\Appointment\\Create.cshtml",
+              "RelativeToolTip": "Views\\Appointment\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T19:49:51.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\PrivateHospital\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentController.cs",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\PrivateHospital\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwGMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:45:50.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\PrivateHospital\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\PrivateHospital\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCAAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T19:40:47.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\PrivateHospital\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\Diploma in computer AI-USA\\VS_MANAGEMENT\\PrivateHospital\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:40:38.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
